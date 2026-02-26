@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Broken Melodies",
+  "base_artist": "NCT DREAM",
+  "createdAt": "2026-02-26T23:16:49.086855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/01_Broken_Melodies_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Broken Melodies - JVKE Remix",
+      "artist": "NCT DREAM feat. JVKE",
+      "has_synced": true,
+      "path": "select/02_Broken_Melodies_-_JVKE_Remix_NCT_DREAM_feat._JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Melodies (JVKE Remix)",
+      "artist": "NCT DREAM, Jvke",
+      "has_synced": true,
+      "path": "select/03_Broken_Melodies_(JVKE_Remix)_NCT_DREAM,_Jvke.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Broken Melodies - JVKE Remix",
+      "artist": "NCT DREAM",
+      "has_synced": false,
+      "path": "select/04_Broken_Melodies_-_JVKE_Remix_NCT_DREAM.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Chandler Moore, Naomi Raine (feat. Roosevelt Stewart)",
+      "has_synced": true,
+      "path": "select/05_Broken_Melodies_Maverick_City_Music,_Chandler_Moore,_Naomi_Raine_(feat._Roosevelt_Stewart).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/06_Broken_Melodies_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Broken Melodies (Sped Up) (feat. Roosevelt Stewart)",
+      "artist": "Maverick City Music",
+      "has_synced": true,
+      "path": "select/07_Broken_Melodies_(Sped_Up)_(feat._Roosevelt_Stewart)_Maverick_City_Music.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Broken Melodies (feat. Roosevelt Stewart) (Sped Up)",
+      "artist": "Maverick City Music",
+      "has_synced": false,
+      "path": "select/08_Broken_Melodies_(feat._Roosevelt_Stewart)_(Sped_Up)_Maverick_City_Music.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "NCT DREAM",
+      "has_synced": true,
+      "path": "select/09_Broken_Melodies_NCT_DREAM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Naomi Raine & Chandler Moore feat. Roosevelt Stewart",
+      "has_synced": true,
+      "path": "select/10_Broken_Melodies_Maverick_City_Music,_Naomi_Raine_&_Chandler_Moore_feat._Roosevelt_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Naomi Raine",
+      "has_synced": true,
+      "path": "select/11_Broken_Melodies_Maverick_City_Music,_Naomi_Raine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Raine, Naomi & Chandler Moore feat. Stewart, Roosevelt",
+      "has_synced": true,
+      "path": "select/12_Broken_Melodies_Maverick_City_Music,_Raine,_Naomi_&_Chandler_Moore_feat._Stewart,_Roosevelt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Chandler Moore & Naomi Raine",
+      "has_synced": true,
+      "path": "select/13_Broken_Melodies_Maverick_City_Music,_Chandler_Moore_&_Naomi_Raine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Melodies",
+      "artist": "Maverick City Music, Chandler Moore, Naomi Raine, Roosevelt Stewart",
+      "has_synced": true,
+      "path": "select/14_Broken_Melodies_Maverick_City_Music,_Chandler_Moore,_Naomi_Raine,_Roosevelt_Stewart.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Broken Melodies",
+      "artist": "NCT DREAM",
+      "has_synced": false,
+      "path": "select/pl_01_Broken_Melodies_NCT_DREAM.txt"
+    }
+  ]
+}
