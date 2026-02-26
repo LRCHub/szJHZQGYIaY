@@ -1,0 +1,79 @@
+# NCT DREAM – Broken Melodies
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.94] You owe me sleep
+[00:06.44] 밤새 얘기하며, 오늘의 달과 별 너에게 보내
+[00:12.12] Seoul to LA (huh)
+[00:15.47] 이유 별거 없지
+[00:19.09] 눈 감아보면 내게 제일 선명하게 떠오르네
+[00:24.50] 바보 같은 걸 알지, 너는 저 멀리에 있는데
+[00:36.50] 
+[00:29.24] 부족해 난 너 없인 완벽할 수 없지
+[00:33.00] 흐트러져 가는 소음일 뿐
+[00:35.57] 잃어버린 그 something, 미완성의 우리
+[00:39.46] I'll do anything to get back to you, you
+[00:59.46] 
+[00:48.17] Life is but a dream, we got history
+[00:50.87] I just wanna feel the chemistry, feel you next to me
+[00:54.23] You know that I hate this distance
+[00:57.30] 'Cause I'm just left here singing
+[01:13.80] 
+[01:01.03] Lonely harmonies, broken melodies (ah)
+[01:04.30] Love drunk energy, I'm in ocean deep (ah)
+[01:07.02] Oh, I hate this distance
+[01:10.13] And I hate singing
+[01:19.13] 
+[01:15.95] I lay awake
+[01:18.44] 나의 머릿속엔 너의 목소리만 repeat
+[01:23.91] 멈춰지지 않지
+[01:26.76] Oh, 알아, 네가 있기에 아름다웠던
+[01:31.38] 나의 찬란한 순간, 내 전부인 너 for you
+[01:36.86] 다시 되찾고 싶어, 꿈은 바래지지 않기에
+[01:47.86] 
+[01:41.09] 공허해 난 너 없인 완전할 수 없지 (ah)
+[01:44.97] 듣고 싶지 않은 소음일 뿐
+[01:47.35] 닿지 못한 그 something, 미완성의 우리
+[01:51.28] I'll do anything to get back to you, you
+[02:11.28] 
+[02:00.44] Life is but a dream, we got history
+[02:02.82] I just wanna feel the chemistry, feel you next to me
+[02:05.92] You know that I hate this distance
+[02:09.38] 'Cause I'm just left here singing
+[02:25.88] 
+[02:13.17] Lonely harmonies, broken melodies (ah)
+[02:16.34] Love drunk energy, I'm in ocean deep (ah)
+[02:19.06] Oh, I hate this distance
+[02:22.25] And I hate singing broken melodies
+[02:39.25] 
+[02:28.44] I don't have wings but I'm flying
+[02:32.10] There's no perfect timing
+[02:35.36] This could turn into something
+[02:39.81] Let's turn it into something, yeah
+[02:43.57] Green light, I'm ready to go
+[02:57.57] 
+[02:45.93] 달려갈게 지금 네게로 (지금 네게로)
+[02:48.58] 힘껏 뛰어들어 초록빛으로 (yeah, yeah)
+[02:52.31] I ain't scared no more
+[02:54.14] Oh, oh, 난 너에게로 dive in, yeah
+[03:08.14] 
+[02:58.42] Even when the skies are grey
+[02:59.21] And we don't see the light of day
+[03:01.07] I keep fighting, 모두 뺏긴 채
+[03:02.46] 종말 앞에 내게 쏟아지는 purple rain, ah
+[03:04.35] Don't need protection
+[03:05.11] 희망의 절벽 끝에선 네 미소 하나면 돼
+[03:07.67] (I will never die)
+[03:08.93] Guess I'll finally get back to you
+[03:25.93] 
+[03:13.99] Life is but a dream, we got history
+[03:16.53] I just wanna feel the chemistry, feel you next to me
+[03:19.42] You know that I hate this distance (hate this distance)
+[03:23.17] 'Cause I'm just left here singing (oh, singing)
+[03:46.67] 
+[03:26.79] Lonely harmonies, broken melodies (ah)
+[03:29.80] Love drunk energy, I'm in ocean deep (ah-ah-ah, ah, yeah)
+[03:32.31] Oh, I hate this distance (hate this distance)
+[03:35.92] And I hate singing broken melodies
+```
